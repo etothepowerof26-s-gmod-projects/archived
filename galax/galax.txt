@@ -1,0 +1,6 @@
+"galax"
+{
+	"base"		"sandbox"
+	"title"		"Galax"
+	"menusystem"	"1"
+}
