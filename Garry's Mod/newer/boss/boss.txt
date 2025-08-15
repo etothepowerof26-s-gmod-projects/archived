@@ -1,0 +1,19 @@
+"boss"
+{
+	"base"		"base"
+	"title"		"Boss Battles"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+		1
+		{
+			"name"		"boss_mapchange_rounds"
+			"text"		"Rounds before map change"
+			"help"		"The number of rounds until the map changes."
+			"type"		"Numeric"
+			"default"	"10"
+		}
+	}
+}

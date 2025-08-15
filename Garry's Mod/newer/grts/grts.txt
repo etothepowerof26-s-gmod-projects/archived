@@ -1,0 +1,5 @@
+"grts"
+{
+	"title"		"gRTS"
+	"base"		"base"
+}

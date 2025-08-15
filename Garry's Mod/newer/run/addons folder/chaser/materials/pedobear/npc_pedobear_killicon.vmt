@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pedobear/npc_pedobear_killicon"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

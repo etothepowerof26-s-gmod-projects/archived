@@ -1,0 +1,7 @@
+"rpg"
+{
+	"base"		"base"
+	"title"		"Garry's Mod Dungeon"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+}

@@ -1,0 +1,7 @@
+"run"
+{
+	"base"		"base"
+	"title"		"RUN SNPC Chase"
+	"maps"		"^gm_"
+	"category"	"other"
+}

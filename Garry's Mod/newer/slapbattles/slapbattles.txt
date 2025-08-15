@@ -1,0 +1,7 @@
+"slapbattles"
+{
+	"base"		"base"
+	"title"		"Slap Central"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+}

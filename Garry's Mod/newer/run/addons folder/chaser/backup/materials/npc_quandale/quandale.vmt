@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_quandale/quandale"
+	"$alphatest" 1
+}
