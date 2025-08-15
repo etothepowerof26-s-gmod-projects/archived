@@ -1,0 +1,1 @@
+Old boss battle gamemode that I tried to make. You can see a reoccuring theme with RPG shit I tried to make before I found FRG.

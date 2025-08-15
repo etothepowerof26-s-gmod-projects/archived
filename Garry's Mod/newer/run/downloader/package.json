@@ -1,0 +1,16 @@
+{
+  "name": "wsdl",
+  "version": "1.0.0",
+  "description": "making my life easier when downloading runners",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gmad": "^1.0.1",
+    "steamcmd-interface": "^4.0.2",
+    "subprocess": "^0.1.0"
+  }
+}

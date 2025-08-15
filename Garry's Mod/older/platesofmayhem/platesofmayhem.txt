@@ -1,0 +1,6 @@
+"platesofmayhem"
+{
+	"title"		"Plates Of Mayhem"
+	"base"		"base"
+	"menusystem"	"1"
+}

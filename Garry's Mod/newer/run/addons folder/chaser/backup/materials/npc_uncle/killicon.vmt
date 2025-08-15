@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_uncle/uncle"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

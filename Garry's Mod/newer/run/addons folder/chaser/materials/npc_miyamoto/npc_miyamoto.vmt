@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_miyamoto/npc_miyamoto"
+	"$alphatest" 1
+	"Proxies"
+	{
+	    "AnimatedTexture"
+	        {
+	        "animatedTextureVar" "$basetexture"
+	        "animatedTextureFrameNumVar" "$frame"
+	        "animatedTextureFrameRate" "10"
+			}
+	}
+}

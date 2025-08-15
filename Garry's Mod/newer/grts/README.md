@@ -1,0 +1,1 @@
+Real time strategy gamemode based off an archive from an old script I wrote on Meta Construct. I'm assuming that is lost media at this point.
